@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    background-image: url("img/213.png");
+    background-size: cover;
+}
+.element::-webkit-scrollbar {
+    width: 0;
+  }
+  
+  /*Убрать полосу прокрутки для всей страницы*/
+  ::-webkit-scrollbar {
+    width: 0;
+  }
