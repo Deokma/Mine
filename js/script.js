@@ -1,3 +1,4 @@
+document.body.style.zoom = 0.5;
 let photo = document.createElement("img");
 photo.src = "img/213.png";
 photo.width = "2955";
